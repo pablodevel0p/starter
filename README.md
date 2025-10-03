@@ -1,2 +1,2 @@
 # starter
-Startet project La Escalera
+Starter project La Escalera
